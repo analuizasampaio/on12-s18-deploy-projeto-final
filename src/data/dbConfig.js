@@ -1,7 +1,7 @@
 require('dotenv').config()
 const mongoose = require('mongoose')
 
-const MONGO_URL = "mongodb://localhost:27017/reprograma"
+const MONGO_URL = process.env.MONGODB_URI 
 
 const connect = () => {
     mongoose.connect(MONGO_URL, {

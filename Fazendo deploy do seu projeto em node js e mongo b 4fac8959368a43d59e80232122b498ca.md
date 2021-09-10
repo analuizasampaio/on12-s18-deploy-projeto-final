@@ -7,8 +7,6 @@ no twitter: [@analu_io](https://twitter.com/analu_io)
 no telegram: [@analuizasampaio](https://t.me/analuizasampaio)
 ou me mande um e-mail: sampaioaanaluiza@gmail.com
 
-![imagens_tutorial/Untitled.png](imagens_tutorial/Untitled.png)
-
 ## Criando contas
 
 Para fazer esse tutorial você deve criar contas no heroku, mongo atlas e seu projeto tem que estar no github.

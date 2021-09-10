@@ -3,11 +3,8 @@
 Escrito por: Ana Luiza Sampaio para {Reprograma}
 
 Me encontre no instagram: [@analu.io](https://www.instagram.com/analu.io)
-
 no twitter: [@analu_io](https://twitter.com/analu_io) 
-
 no telegram: [@analuizasampaio](https://t.me/analuizasampaio)
-
 ou me mande um e-mail: sampaioaanaluiza@gmail.com
 
 ## Criando contas
